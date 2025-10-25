@@ -3,7 +3,7 @@ package com.android.example.searchwithdebounce.data.repository
 import kotlinx.coroutines.delay
 
 class QuoteRepository {
-    private val quotes = listOf<String>(
+    private val quotes = listOf(
         "Believe in yourself",
         "Stay positive, work hard, make it happen",
         "Dream big and dare to fail",
